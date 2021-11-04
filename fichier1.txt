@@ -1,0 +1,11 @@
+Remove
+spaces
+at
+beginning
+and
+at
+the
+end
+of
+the
+string:
